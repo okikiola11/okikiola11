@@ -1,6 +1,3 @@
-<link href="social-buttons.css" rel="stylesheet" />
-<script src="social-buttons.js"></script>
-
 **Hi, I'm Okikiola, a Compulsive Developer  (She/her)**<span style="padding-right:15px">
 <img src="images/1f44b.png" width="30px"></span>
 
@@ -10,33 +7,7 @@
    I'm a Freelance full stack developer | JavaScript, React, Ruby on Rails, Ruby, Redux
                                         | Open source lover & Compulsive coder
 
-
-
 ```
-
-&nbsp;
-
-
-<a target="_blank" href="https://twitter.com/Kikiolla3" class="share-twitter">
-  <span class="icon icon-twitter"></span>
-  <span class="share-title">kikiolla3</span>
-</a>
-
-<span style="margin-left:20px;">
-  <a target="_blank" href="https://www.linkedin.com/in/okikiola-apelehin-459008122/" class="share-linkedin">
-    <span class="icon icon-linkedin" aria-hidden="true"></span>
-    <span class="share-title">kikiolla</span>
-  </a>
-</span>
-
-<span style="margin-left:20px;">
-  <a target="_blank" href="https://okikiola.apelehin@gmail.com" class="share-google">
-    <span class="icon icon-google" aria-hidden="true"></span>
-    <span class="share-title">okikiola.apelehin@gmail.com</span>
-  </a>
-</span>
-
-&nbsp;
 
 <p>
   <strong>Talking about personal stuffs:</strong>
