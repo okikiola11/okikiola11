@@ -4,7 +4,7 @@
 ```
   $ whoami
 
-   I'm a Freelance full stack developer | JavaScript, React, Ruby on Rails, Ruby, Redux
+   I'm a Freelance full stack developer | JavaScript, React, Ruby on Rails, Ruby, Redux enthusiast
                                         | Open source lover & Compulsive coder
 
 ```
@@ -32,60 +32,103 @@
 
 **Languages and Tools**
 
-<span style="padding-right:15px">
-  <img src="images/javascript.png" width="30px">
-</span>
-<span style="padding-right:15px">
-  <img src="images/react.png" width="30px">
-</span>
-<span style="padding-right:55px">
-  <img src="images/rails.png" width="70px">
-</span>
-<span style="padding-right:35px">
-  <img src="images/ruby.jpeg" width="30px">
-</span>
-<span style="padding-right:35px">
-  <img src="images/nodejs.png" width="30px">
-</span>
-<span style="padding-right:35px">
-  <img src="images/postgresql.png" width="30px">
-</span>
-<span style="padding-right:35px">
-  <img src="images/bootstrap.png" width="30px">
-</span>
-<span style="padding-right:35px">
-  <img src="images/jest.png" width="40px">
-</span>
-<span style="padding-right:35px">
-  <img src="images/npm.png" width="60px">
-</span>
-<span style="padding-right:35px">
-  <img src="images/yarn.png" width="40px">
-</span>
-<span style="padding-right:35px">
-  <img src="images/heroku.webp" width="40px">
-</span>
-<span style="padding-right:35px">
-  <img src="images/eslint.jpg" width="60px">
-</span>
-<span style="padding-right:35px">
-  <img src="images/netlify.png" width="40px">
-</span>
-<span style="padding-right:35px">
-  <img src="images/json.jpeg" width="40px">
-</span>
-<span style="padding-right:35px">
-  <img src="images/webpack.png" width="40px">
-</span>
-<span style="padding-right:15px">
-  <img src="images/mysql.png" width="35px">
-</span>
-<span style="padding-right:15px;">
-  <img src="images/google.png" width="40px">
-</span>
-<span style="padding-right:15px">
-  <img src="images/git.png" width="30px">
-</span>
+<p>
+  <code>
+    <img src="images/javascript.png" height="30" style="max-width:100%;">
+  </code>
+  <code>
+    <span>
+      <img src="images/react.png" height="35" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/rails.png" height="45" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/ruby.jpeg" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/nodejs.png" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/postgresql.png" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/bootstrap.png" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/jest.png" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/npm.png" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/yarn.png" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/heroku.webp" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/eslint.jpg" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/netlify.png" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/json.jpeg" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/webpack.png" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/mysql.png" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/google.png" height="40" style="max-width:100%;">
+    </span>
+  </code>
+  <code>
+    <span>
+      <img src="images/git.png" height="30" style="max-width:100%;">
+    </span>
+  </code>
+  
+  
+  
+  
+
+  
+  
+</p>
 
 &nbsp;
 
