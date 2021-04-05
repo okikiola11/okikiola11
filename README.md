@@ -1,10 +1,10 @@
 **Hi, I'm Okikiola, a Compulsive Developer  (She/her)**<span style="padding-right:15px">
-<img src="images/1f44b.png" width="30px"></span>
+<img src="images/1f44b.png" height="20"></span>
 
 ```
   $ whoami
 
-   I'm a Freelance full stack developer | JavaScript, React, Ruby on Rails, Ruby, Redux enthusiast
+   I'm a Freelance full stack developer | JavaScript, Ruby, Ruby on Rails, React, Redux enthusiast
                                         | Open source lover & Compulsive coder
 
 ```
@@ -12,22 +12,25 @@
   <strong>Talking about personal stuffs:</strong>
 </p>
 <ul>
-  <li>&zwj; I'm currently working on React
-    <span style="padding-right:15px;">
-      <img src="images/1f609.png" width="20px">
-    </span>
+  <li> I'm currently working on React
+  <code>
+     <img src="images/1f609.png" height="20">
+  </code>
   </li>
   <li>
-    <span style="padding-right:15px">
-      <img src="images/flower.png" width="20px"></span>
-      I'm currently learning something cool
-    
+    <code>
+      <img src="images/flower.png" height="20">
+    </code>
+      I'm currently learning something cool 
   </li>
   <li>
-    <span style="padding-right:15px">
-    <img src="images/1f4ac.png" width="20px">Ask me about anything, I'm looking to collaborate with other developers
+    <code>
+      <img src="images/1f4ac.png" height="20">
+    </code>
+    Ask me about anything, I'll love to hear from you, if you want to say hi, I'll be happy to meet you.
+
+Let's code together!!
   </li>
-  <li></li>
 </ul>
 
 **Languages and Tools**
@@ -108,7 +111,7 @@
   </code>
   <code>
     <span>
-      <img src="images/mysql.png" height="30" style="max-width:100%;">
+      <img src="images/mysql.png" height="50" style="max-width:100%;">
     </span>
   </code>
   <code>
@@ -121,13 +124,6 @@
       <img src="images/git.png" height="30" style="max-width:100%;">
     </span>
   </code>
-  
-  
-  
-  
-
-  
-  
 </p>
 
 &nbsp;
