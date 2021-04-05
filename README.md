@@ -128,7 +128,7 @@ Let's code together!!
 
 &nbsp;
 
-**<span style="padding-right:10px">
-  <img src="images/1f4c8.png" width="20px"></span>Github Stats**
+**<code>
+  <img src="images/1f4c8.png" height="20"></code>Github Stats**
 
 ![okikiola's github stats](https://github-readme-stats.vercel.app/api?username=okikiola11&theme=merko)
