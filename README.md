@@ -8,7 +8,7 @@
                                         | Open source lover & Compulsive coder
 
 ```
-
+&nbsp;
 <p>
   <strong>Talking about personal stuffs:</strong>
 </p>
@@ -34,39 +34,34 @@
 **Languages and Tools**
 
 <span style="padding-right:15px">
-  <img src="images/javascript.png" width="20px">
+  <img src="images/javascript.png" width="30px">
 </span>
 <span style="padding-right:15px">
-  <img src="images/react.png" width="20px">
+  <img src="images/react.png" width="30px">
 </span>
 <span style="padding-right:15px">
-  <img src="images/rubyonrails.png" width="20px">
+  <img src="images/rails.png" width="70px">
 </span>
 <span style="padding-right:15px">
-  <img src="images/ruby.png" width="20px">
+  <img src="images/ruby.jpeg" width="30px">
 </span>
 <span style="padding-right:15px">
-  <img src="images/nodejs.png" width="20px">
+  <img src="images/nodejs.png" width="30px">
 </span>
 <span style="padding-right:15px">
-  <img src="images/postgresql.png" width="20px">
+  <img src="images/postgresql.png" width="30px">
 </span>
 <span style="padding-right:15px">
-  <img src="images/mysql.png" width="20px">
+  <img src="images/mysql.png" width="35px">
+</span>
+<span style="padding-right:15px;">
+  <img src="images/google.png" width="40px">
 </span>
 <span style="padding-right:15px">
-  <img src="images/google.png" width="20px">
+  <img src="images/git.png" width="30px">
 </span>
-<span style="padding-right:15px">
-  <img src="images/git.png" width="20px">
-</span>
-
-&nbsp;
-&nbsp;
 
 **<span style="padding-right:10px">
   <img src="images/1f4c8.png" width="20px"></span>Github Stats**
 
 ![okikiola's github stats](https://github-readme-stats.vercel.app/api?username=okikiola11&theme=merko)
-
-
