@@ -41,14 +41,41 @@
 <span style="padding-right:55px">
   <img src="images/rails.png" width="70px">
 </span>
-<span style="padding-right:55px">
+<span style="padding-right:35px">
   <img src="images/ruby.jpeg" width="30px">
 </span>
-<span style="padding-right:55px">
+<span style="padding-right:35px">
   <img src="images/nodejs.png" width="30px">
 </span>
-<span style="padding-right:55px">
+<span style="padding-right:35px">
   <img src="images/postgresql.png" width="30px">
+</span>
+<span style="padding-right:35px">
+  <img src="images/bootstrap.png" width="30px">
+</span>
+<span style="padding-right:35px">
+  <img src="images/jest.png" width="40px">
+</span>
+<span style="padding-right:35px">
+  <img src="images/npm.png" width="60px">
+</span>
+<span style="padding-right:35px">
+  <img src="images/yarn.png" width="40px">
+</span>
+<span style="padding-right:35px">
+  <img src="images/heroku.webp" width="40px">
+</span>
+<span style="padding-right:35px">
+  <img src="images/eslint.jpg" width="60px">
+</span>
+<span style="padding-right:35px">
+  <img src="images/netlify.png" width="40px">
+</span>
+<span style="padding-right:35px">
+  <img src="images/json.jpeg" width="40px">
+</span>
+<span style="padding-right:35px">
+  <img src="images/webpack.png" width="40px">
 </span>
 <span style="padding-right:15px">
   <img src="images/mysql.png" width="35px">
