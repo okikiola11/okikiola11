@@ -4,15 +4,16 @@
 ```
   $ whoami
 
-   I'm a Freelance full stack developer | JavaScript, Ruby, Ruby on Rails, React, Redux enthusiast
-                                        | Open source lover & Compulsive coder
+   Job Status                           | Available for Hire.
+   I'm a Freelance full-Stack developer | JavaScript, Ruby, Ruby on Rails, React, Redux enthusiast.
+                                        | Open source lover & Compulsive coder.
 
 ```
 <p>
   <strong>Talking about personal stuffs:</strong>
 </p>
 <ul>
-  <li> I'm currently working on React
+  <li> I'm currently working on React.
   <code>
      <img src="images/1f609.png" height="20">
   </code>
@@ -21,15 +22,15 @@
     <code>
       <img src="images/flower.png" height="20">
     </code>
-      I'm currently learning something cool 
+      I'm currently learning something cool.
   </li>
   <li>
     <code>
       <img src="images/1f4ac.png" height="20">
     </code>
-    Ask me about anything, I'll love to hear from you, if you want to say hi, I'll be happy to meet you.
+    Ask me about anything, I'll love to hear from you.
 
-Let's code together!!
+If you want to say hi, I'll be happy to meet you. Let's code together!!
   </li>
 </ul>
 
