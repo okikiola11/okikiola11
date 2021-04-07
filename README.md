@@ -5,7 +5,7 @@
   $ whoami
 
    Job Status                           | Available for Hire.
-   I'm a Freelance full-Stack developer | JavaScript, Ruby, Ruby on Rails, React, Redux enthusiast.
+   I'm a Freelance full-Stack developer.| JavaScript, Ruby, Ruby on Rails, React, Redux enthusiast.
                                         | Open source lover & Compulsive coder.
 
 ```
