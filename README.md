@@ -13,7 +13,7 @@
   <strong>Talking about personal stuffs:</strong>
 </p>
 <ul>
-  <li> I'm currently working on React.
+  <li> I'm currently working on Angular JS.
   <code>
      <img src="images/1f609.png" height="20">
   </code>
