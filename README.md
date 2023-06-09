@@ -9,25 +9,26 @@
                                         | Open source lover & Compulsive coder.
 
 ```
+
 <p>
   <strong>Talking about personal stuffs:</strong>
 </p>
 <ul>
   <li> I'm currently working on TypeScript.
-  <code>
-     <img src="images/1f609.png" height="20">
-  </code>
+  <span>
+     <img src="images/1f609.png" height="20" />
+  </span>
   </li>
   <li>
-    <code>
-      <img src="images/flower.png" height="20">
-    </code>
+    <span>
+      <img src="images/flower.png" height="20" />
+    </span>
       I'm currently learning something cool.
   </li>
   <li>
-    <code>
-      <img src="images/1f4ac.png" height="20">
-    </code>
+    <span>
+      <img src="images/1f4ac.png" height="20" />
+    </span>
     Ask me about anything, I'll love to hear from you.
 
 If you want to say hi, I'll be happy to meet you. Let's code together!!
