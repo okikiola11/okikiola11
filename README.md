@@ -130,7 +130,7 @@ If you want to say hi, I'll be happy to meet you. Let's code together!!
 
 &nbsp;
 
-**<code>
+<!-- **<code>
   <img src="images/1f4c8.png" height="20"></code>Github Stats**
 
-![okikiola's github stats](https://github-readme-stats.vercel.app/api?username=okikiola11&theme=merko)
+![okikiola's github stats](https://github-readme-stats.vercel.app/api?username=okikiola11&theme=merko) -->
